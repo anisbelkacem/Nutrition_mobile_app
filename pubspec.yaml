@@ -1,0 +1,44 @@
+name: nutritionapp
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.3 <4.0.0'
+
+dependencies:
+
+  flutter:
+    sdk: flutter
+  firebase_auth: ^4.19.0
+  camera: ^0.10.5+9
+  intl: ^0.19.0
+  dotted_border: ^2.1.0
+  icons_plus: ^5.0.0
+  image_picker: ^1.1.0
+  firebase_core: ^2.28.0
+  cloud_firestore: ^4.16.0
+  animate_do: ^3.3.4
+  get: ^4.6.6
+  percent_indicator: ^4.2.3
+  curved_navigation_bar: ^1.0.3
+
+  cupertino_icons: ^1.0.6
+  google_fonts:
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^3.0.0
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/images/
+
+
