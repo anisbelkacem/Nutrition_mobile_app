@@ -1,6 +1,7 @@
 # nutritionapp
 
-A new Flutter project.
+An intelligent mobile nutrition advisory application using a food recognition model and sophisticated
+algorithms to estimate calorie intake throughout a user’s day, tailored to their chosen plan.
 
 ## Getting Started
 
